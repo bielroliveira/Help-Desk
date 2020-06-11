@@ -1,0 +1,24 @@
+{
+  "support": [
+    {
+      "id": 1,
+      "subjects": "Computador não liga",
+      "description": "Cheguei no escritório e o computador não ligava, fica na tela de carregamento"
+    },
+    {
+      "id": 2,
+      "subjects": "Configurar ramal",
+      "description": "Preciso que configure o ramal para cair no meu celular"
+    },
+    {
+      "id": 3,
+      "subjects": "Acesso ao sistema",
+      "description": "Minha senha expirou." 
+    },
+    {
+      "subjects": "Pagina não carrega",
+      "description": "tentei acessar o portal e deu erro",
+      "id": 4
+    }
+  ]
+}
