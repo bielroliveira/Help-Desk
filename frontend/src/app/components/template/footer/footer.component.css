@@ -1,0 +1,14 @@
+.footer{
+    bottom: 0;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+}
+.footer span{
+    font-size: 1rem;
+    font-weight: 200;
+}
+.footer a {
+    text-decoration: underline;
+    color: aliceblue;
+}
